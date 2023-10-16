@@ -22,4 +22,4 @@ logística e aumentar o faturamento do e-commerce em 10% para o próximo ano.
 3. Apresentação de resultados.
 
 ## <img width="24" height="24" src="https://img.icons8.com/stickers/100/test-results.png" alt="test-results"/> Resultados obtidos
-84 mil clientes teriam o problema resolvido, excedendo a quantidade de clientes necessários (55 mil) para atingir o aumento anual de faturamento em 10%. Além de criar soluções para estabelecer um plano de execução a médio / longo prazo, melhorando ainda mais a qualidade do serviço.
+Um total de 84 mil clientes teve seus problemas resolvidos, superando a meta de 55 mil necessária para alcançar um aumento de 10% no faturamento anual. Além disso, prevê-se que 33.600 (40%) dos clientes insatisfeitos voltem a comprar no site. Combinado com cortes de despesas nos fornecedores, estima-se um aumento no faturamento para R$ 1.825.200.
